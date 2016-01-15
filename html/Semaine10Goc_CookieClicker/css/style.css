@@ -1,0 +1,37 @@
+#en_tete img{
+    width:35%;   
+    height:25%;
+    display:block;
+    margin: auto;
+}
+body {
+    background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_embroidery.png");
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    text-align: justify;
+    position: relative;
+    width: 100%;
+    margin: 40px;
+    overflow-x: hidden;
+}
+.container {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    cursor: crosshair;
+    padding: 30px;
+    text-align: center;
+}
+bouton {
+    width: 250px;
+    height: 60px;
+    padding: 0;
+    margin: 10px 10px;
+    background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/cheap_diagonal_fabric.png");
+    border: 10;
+    cursor: crosshair;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+}
